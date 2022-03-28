@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently working on improving my Data Science skills. In my free time, I contribute to [sktime](https://github.com/alan-turing-institute/sktime), framework for machine learning with time series.
+I’m currently working on improving my Data Science skills. In my free time, I contribute to [sktime](https://github.com/alan-turing-institute/sktime), a framework for machine learning with time series.
