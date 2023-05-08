@@ -1,7 +1,6 @@
 Hi there 👋 !
 
-My name is Kejsi Take (she/her) and I am a PhD Candidate 🔭 at New York University. My research interests are at the intersections of security, privacy and machine learning.
-
+My name is Kejsi Take (she/her) and I am a PhD Candidate 🔭 at New York University. 
 <!--
 **kejsitake/kejsitake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
